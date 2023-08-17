@@ -14,10 +14,10 @@ import requests
 import json
 
 # Set up OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = 'API'
 
 # Set up Bing Search API credentials
-bing_subscription_key = '6b8ff1e0725f47be8469bb66a67c6c1a'
+bing_subscription_key = 'API'
 bing_endpoint = 'https://api.bing.microsoft.com/v7.0/search'
 
 def chat_gpt(query):
