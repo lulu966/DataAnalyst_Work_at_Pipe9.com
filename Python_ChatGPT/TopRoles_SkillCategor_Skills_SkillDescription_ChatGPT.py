@@ -12,7 +12,7 @@
 import openai
 
 
-openai.api_key = "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"
+openai.api_key = "API"
 
 
 def get_top_roles(category):
